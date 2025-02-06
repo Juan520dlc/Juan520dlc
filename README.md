@@ -23,7 +23,7 @@ Apasionado por la tecnología y el aprendizaje continuo, con experiencia en desa
 Desarrollé un sistema que optimiza la carga de datos y mejora la experiencia del usuario.
 
 ### Aplicación "Spotify" en C#
-En colaboración con otro desarrollador, creamos una aplicación para la reproducción y gestión de música, implementando almacenamiento de música, artistas y álbumes, así como niveles de usuario y autenticación segura. Puedes ver el repositorio [aquí](https://github.com/Juan520dlc).
+En colaboración con otro desarrollador, creamos una aplicación para la reproducción y gestión de música, implementando almacenamiento de música, artistas y álbumes, así como niveles de usuario y autenticación segura. Puedes ver el repositorio [aquí](https://github.com/KenyMaldonado/ProyectoFinalProgramacion).
 
 ## Conectemos
 
