@@ -2,8 +2,7 @@
 
 Apasionado por la tecnología y el aprendizaje continuo, con experiencia en desarrollo de software y un enfoque autodidacta. Me especializo en la creación de aplicaciones funcionales e intuitivas, priorizando la seguridad y la experiencia del usuario.
 
-- 🌍  Ubicación: Quetzaltenango, Guatemala
-<!-- - 🖥️  [Portafolio](https://github.com/Juan520dlc) -->
+- 🌍  Ubicación: Quetzaltenango, Guatemala <!-- - 🖥️  [Portafolio](https://github.com/Juan520dlc) -->
 - ✉️  [Correo Electrónico](mailto:jamarroquin.re@gmail.com)
 - 🧠  Actualmente aprendiendo: Desarrollo web y desarrollo de videojuegos!
 - 🤝  Abierto a colaborar en proyectos innovadores y de impacto positivo
@@ -24,7 +23,7 @@ Apasionado por la tecnología y el aprendizaje continuo, con experiencia en desa
 Desarrollé un sistema que optimiza la carga de datos y mejora la experiencia del usuario.
 
 ### Aplicación "Spotify" en C#
-En colaboración con otro desarrollador, creamos una aplicación para la reproducción y gestión de música, implementando almacenamiento de música, artistas y álbumes, así como niveles de usuario y autenticación segura.
+En colaboración con otro desarrollador, creamos una aplicación para la reproducción y gestión de música, implementando almacenamiento de música, artistas y álbumes, así como niveles de usuario y autenticación segura. Puedes ver el repositorio [aquí](https://github.com/Juan520dlc).
 
 ## Conectemos
 
