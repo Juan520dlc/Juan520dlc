@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Antonio Marroquín Reyes 👋
 
-<!--
-**Juan520dlc/Juan520dlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la tecnología y el aprendizaje continuo, con experiencia en desarrollo de software y un enfoque autodidacta. Me especializo en la creación de aplicaciones funcionales e intuitivas, priorizando la seguridad y la experiencia del usuario.
 
-Here are some ideas to get you started:
+- 🌍  Ubicación: Quetzaltenango, Guatemala
+<!-- - 🖥️  [Portafolio](https://github.com/Juan520dlc) -->
+- ✉️  [Correo Electrónico](mailto:jamarroquin.re@gmail.com)
+- 🧠  Actualmente aprendiendo: Desarrollo web y desarrollo de videojuegos!
+- 🤝  Abierto a colaborar en proyectos innovadores y de impacto positivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+
+- **Lenguajes:** PHP, C++, Python, JavaScript
+- **Desarrollo Web:** HTML, CSS, JavaScript, PHP
+- **Bases de Datos:** MySQL, SQL
+- **Control de Versiones:** Git
+- **Seguridad Informática:** Prácticas de seguridad web
+- **Metodologías Ágiles:** Scrum
+- **Sistemas Operativos:** Unix/Linux
+
+## Proyectos Destacados
+
+### Sistema de Gestión de Contenidos en PHP
+Desarrollé un sistema que optimiza la carga de datos y mejora la experiencia del usuario.
+
+### Aplicación "Spotify" en C#
+En colaboración con otro desarrollador, creamos una aplicación para la reproducción y gestión de música, implementando almacenamiento de música, artistas y álbumes, así como niveles de usuario y autenticación segura.
+
+## Conectemos
+
+- [LinkedIn](https://www.linkedin.com/in/juan-marroquin-2886801b4/)
+- [GitHub](https://github.com/Juan520dlc)
+
+¡Gracias por visitar mi perfil!
